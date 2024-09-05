@@ -1,0 +1,12 @@
+.todo-headline{
+    width: fit-content;
+    color: rgb(8, 0, 44);
+    margin: 2rem auto;
+    border: 1px solid rgba(128, 128, 128, 0.45);
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    box-shadow: 0 0 10px gray, inset 0 0 20px rgb(255, 255, 255);
+}
+.todo-headline svg{
+    margin-bottom: -0.2rem;
+}

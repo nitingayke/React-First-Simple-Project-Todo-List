@@ -1,0 +1,14 @@
+.todoinput-box{
+    display: flex;
+}
+.input-text{
+    margin: 0;
+    padding: 0.5rem 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: gray;
+}
+.adddtask-btn{
+    display: flex;
+    margin: 0 0.5rem;
+}

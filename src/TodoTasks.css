@@ -1,0 +1,30 @@
+.TodoTasks{
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid gray;
+    border-radius: 0.2rem;
+}
+.TodoTasks li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 1rem;
+    padding: 0.3rem 1rem;
+    margin-bottom: 0.2rem;
+    list-style-type: none;
+    font-size: 1.2rem;
+    border-radius: 0.2rem;
+}
+.TodoTasks li:nth-child(even){
+    background-color: #add8e64d;
+}
+.TodoTasks li:nth-child(odd){
+    background-color: #ffa07a52;
+}
+.TodoTasks h2{
+    color: gray;
+    margin-bottom: 1rem;
+}
+.list-icon svg{
+    margin-bottom: -0.3rem;
+}
